@@ -11,4 +11,4 @@ map.o: map.c common.h
 
 .PHONY: clean
 clean:
-	rm $(objects)
+	rm $(objects) game
